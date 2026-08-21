@@ -1,5 +1,7 @@
-<!-- ===== HEADER BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=200&section=header&text=Rajib%20Mahmud&fontSize=48&fontColor=e2e8f0&fontAlignY=35&desc=Security%20Researcher%20%C2%B7%20Bug%20Bounty%20Hunter%20%C2%B7%20CTF%20Player&descSize=18&descAlignY=58&descColor=94a3b8" />
+<!-- ===== HEADER BANNER (custom animated SVG) ===== -->
+<p align="center">
+  <img width="100%" src="./banner.svg" alt="Rajib Mahmud — Security Researcher · Bug Bounty Hunter · CTF Player" />
+</p>
 
 <!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
